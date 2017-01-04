@@ -5,6 +5,6 @@ package com.service;
  */
 public interface DemoService {
 
-    void sayHello();
+    String sayHello();
 
 }

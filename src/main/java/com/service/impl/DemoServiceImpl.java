@@ -7,7 +7,7 @@ import com.service.DemoService;
  */
 public class DemoServiceImpl implements DemoService {
 
-    public void sayHello() {
-        System.out.println("Hello dubbo!");
+    public String sayHello() {
+        return "hello world";
     }
 }

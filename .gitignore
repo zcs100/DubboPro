@@ -1,2 +1,4 @@
 .idea
 DubboPro.iml
+.project
+/target/classes
